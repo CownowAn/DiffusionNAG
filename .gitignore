@@ -1,0 +1,9 @@
+__pycache__
+checkpoints/
+*.pt
+data/
+exp/
+vis/
+results/
+.empty/
+.prev/

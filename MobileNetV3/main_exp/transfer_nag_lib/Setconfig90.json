@@ -1,0 +1,1 @@
+{"units_C": 32, "output_size_A": [32, 32, 32, 32], "output_size_D": [32, 32, 32, 32], "output_size_B": [32, 32, 32, 32], "kernel": "52", "nu": 2.5, "ard": false, "epochs": 10000, "loss_tol": 0.0001, "dropout": 0.0, "lr": 0.001, "patience": 16}

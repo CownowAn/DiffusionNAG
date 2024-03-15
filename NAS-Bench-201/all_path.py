@@ -1,0 +1,8 @@
+SCORENET_CKPT_PATH="./checkpoints/scorenet/checkpoint.pth.tar"
+META_SURROGATE_CKPT_PATH="./checkpoints/meta_surrogate/checkpoint.pth.tar"
+META_SURROGATE_UNNOISED_CKPT_PATH = "./checkpoints/meta_surrogate/unnoised_checkpoint.pth.tar"
+NASBENCH201="./data/transfer_nag/nasbench201.pt"
+NASBENCH201_INFO="./data/transfer_nag/nasbench201_info.pt"
+META_TEST_PATH="./data/transfer_nag/test"
+RAW_DATA_PATH="./data/raw_data"
+DATA_PATH = "./data/transfer_nag"
