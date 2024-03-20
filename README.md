@@ -133,12 +133,11 @@ bash script/tr_meta_surrogate_ofa.sh [GPU]
 If you have found our work helpful for your research, we would appreciate it if you could acknowledge it by citing our work.
 
 ```BibTex
-@inproceedings{
-an2024diffusionnag,
-title={Diffusion{NAG}: Predictor-guided Neural Architecture Generation with Diffusion Models},
-author={Sohyun An and Hayeon Lee and Jaehyeong Jo and Seanie Lee and Sung Ju Hwang},
-booktitle={The Twelfth International Conference on Learning Representations},
-year={2024},
-url={https://openreview.net/forum?id=dyG2oLJYyX}
+@inproceedings{an2023diffusionnag,
+  title={DiffusionNAG: Predictor-guided Neural Architecture Generation with Diffusion Models},
+  author={An, Sohyun and Lee, Hayeon and Jo, Jaehyeong and Lee, Seanie and Hwang, Sung Ju},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2023}
 }
 ```
+ 
