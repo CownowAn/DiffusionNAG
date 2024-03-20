@@ -1,7 +1,13 @@
 __pycache__
 checkpoints/
 *.pt
-data/
+!NAS-Bench-201/configs/transfer_nag_config.pt
+!NAS-Bench-201/data/transfer_nag/ridx.pt
+!NAS-Bench-201/data/transfer_nag/nasbench201.pt
+!NAS-Bench-201/data/transfer_nag/nasbench201_info.pt
+!NAS-Bench-201/data/transfer_nag/meta_train_tasks_predictor.pt
+!NAS-Bench-201/data/transfer_nag/meta_train_tasks_predictor_idx.pt
+!NAS-Bench-201/data/transfer_nag/meta_train_task_lst.pt
 exp/
 vis/
 results/
